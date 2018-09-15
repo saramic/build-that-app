@@ -8,8 +8,8 @@ Post walk with Sarah having chai latte and tumeric latte at 4 beans down the roa
 
 1. **CRAP test chrome plugin**
 
-    Credibility R... A... P... a resource to rate the quality of results in a
-    search engine for use in school projects.
+    **C**urrency **R**eliability **A**uthrity **P**urpose a resource to rate the
+    quality of results in a search engine for use in school projects.
 
 1. **Automated travel guide** - for car trips
 
